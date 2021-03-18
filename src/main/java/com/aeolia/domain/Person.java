@@ -3,11 +3,8 @@ package com.aeolia.domain;
 import java.time.LocalDateTime;
 
 /**
- * @ClassName Person
- * @Description: 人pojo类
- * @Author 姚金鑫
- * @CreateDate 2021/3/18 20:10
- * @Version 1.0
+ * 人-类
+ * @author 姚金鑫
  */
 public class Person {
     private Integer id;
